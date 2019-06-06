@@ -2,7 +2,7 @@ import os
 from os.path import join
 
 import rastervision as rv
-from examples.utils import get_scene_info, str_to_bool, save_image_crop
+from rvexamples.examples.utils import get_scene_info, str_to_bool, save_image_crop
 
 aoi_path = 'AOI_1_Rio/srcData/buildingLabels/Rio_OUTLINE_Public_AOI.geojson'
 
